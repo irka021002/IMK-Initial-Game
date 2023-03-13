@@ -1,0 +1,14 @@
+.vs
+.vscode
+Assets
+Hasil
+Library
+Logs
+obj
+Packages
+ProjectSettings
+UserSettings
+.vsconfig
+Assembly-CSharp.csproj
+IMK-Initial-Game.sln
+Testing.sln
